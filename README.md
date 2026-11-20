@@ -1,4 +1,4 @@
 # Gen-Ai
 Model Ai UMKM Tujuan Semata — Capstone Project Asah 2026 (A26-CS259 SKS Syndicate)
 
-rag_dual_llm_comparison.png
+[reports/rag_dual_llm_comparison.png]
