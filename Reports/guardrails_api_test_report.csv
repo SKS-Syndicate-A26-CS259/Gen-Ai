@@ -1,0 +1,87 @@
+test_suite,id_uji,pertanyaan,http_status,engine_used,latency_s,passed,reply_snippet
+1. Katalog Relevan (30),GT-01,Apa saja menu kopi signature yang ada di Tujuan Semata?,200,gemini-3.1-flash-lite,2.84,True,Menu kopi yang menjadi signature dan paling laris di Tujuan Semata adalah **Tujuan Signature (MN-004)**. Minuman ini terbuat dari double sho
+1. Katalog Relevan (30),GT-02,Berapa harga Coklat Kuwentel?,200,gemini-3.1-flash-lite,2.191,True,"Harga untuk menu Coklat Kuwentel adalah Rp12.000 untuk ukuran reguler dan Rp16.000 untuk ukuran large. Sebagai informasi, saat ini ada promo"
+1. Katalog Relevan (30),GT-03,Apakah ada menu kopi yang pakai rum? Halal atau mengandung alkohol tidak?,200,gemini-3.1-flash-lite,1.733,True,"Mohon maaf, saat ini tidak ada menu kopi di Tujuan Semata yang menggunakan rum. Namun, sebagai informasi, jika nantinya ada menu dengan rum,"
+1. Katalog Relevan (30),GT-04,Rekomendasikan minuman yang aman dan ramah untuk anak-anak.,200,gemini-3.1-flash-lite,1.927,True,"Tentu, ini adalah pilihan minuman di Tujuan Semata yang aman dan ramah untuk anak-anak:
+
+1. **Coklat Milk**: Cokelat manis dengan susu cream"
+1. Katalog Relevan (30),GT-05,Menu matcha apa saja yang tersedia?,200,fallback_chromadb,5.19,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Blue Japanese Mat"
+1. Katalog Relevan (30),GT-06,"Saya suka kopi yang manis dan creamy, ada saran menu apa?",200,gemini-3.1-flash-lite,1.415,True,"Halo! Untuk Anda yang menyukai kopi dengan rasa manis dan *creamy*, kami merekomendasikan menu berikut:
+
+1. **Vanilla Latte (MN-005)** - Per"
+1. Katalog Relevan (30),GT-07,Ada minuman segar selain kopi dan susu?,200,gemini-3.1-flash-lite,1.764,False,"Mohon maaf, berdasarkan daftar menu yang tersedia di Tujuan Semata, seluruh menu kami saat ini masuk dalam kategori minuman *Creamy & Non-Co"
+1. Katalog Relevan (30),GT-08,Berapa harga Dimsum Keju dan isinya seperti apa?,200,gemini-3.1-flash-lite,5.791,True,Harga Dimsum Keju adalah Rp18.000 per porsi (isi 5 pcs). Tersedia juga pilihan eceran 2 pcs dengan harga Rp8.000. Menu ini berisi dimsum aya
+1. Katalog Relevan (30),GT-09,Camilan gurih apa yang cocok buat sharing berdua?,200,gemini-3.1-flash-lite,1.36,True,"Untuk camilan gurih yang cocok dinikmati berdua, Anda bisa memesan **Mix Platter Reguler (MN-093)** seharga Rp12.000. Menu ini berisi kombin"
+1. Katalog Relevan (30),GT-10,Ada menu pasta atau makanan berat di Tujuan Semata?,200,fallback_chromadb,55.361,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Spaghetti Khas Tu"
+1. Katalog Relevan (30),GT-11,Apakah tersedia burger di sini? Harganya berapa?,200,gemini-3.1-flash-lite,1.196,True,"Ya, di Tujuan Semata tersedia dua pilihan burger:
+
+1. **Burger Platter (MN-086)** seharga Rp18.000.
+2. **Burger Beef Patty (MN-088)** seharg"
+1. Katalog Relevan (30),GT-12,"Saya lagi ingin dessert dingin yang porsinya jumbo, ada apa?",200,fallback_chromadb,4.194,False,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Puding Rasa Cokla"
+1. Katalog Relevan (30),GT-13,Menu puding yang tersedia rasa apa saja?,200,gemini-3.1-flash-lite,34.826,True,"Menu puding yang tersedia di Tujuan Semata adalah rasa Mangga, Melon, Coklat, Strawberry, dan Coklat Susu. Masing-masing seharga Rp5.000."
+1. Katalog Relevan (30),GT-14,Ada camilan pedas seperti chili oil tidak?,200,gemini-3.1-flash-lite,1.541,True,"Tentu, ada beberapa pilihan camilan dengan *chili oil* di Tujuan Semata:
+
+1. **Otak-Otak Chili Oil** (Rp10.000): Otak-otak goreng dengan bal"
+1. Katalog Relevan (30),GT-15,Apakah Cireng Galaxy atau Pangsit Kuah Leukoh masih dijual?,200,fallback_chromadb,5.467,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Profil UMKM Tujuan Sema"
+1. Katalog Relevan (30),GT-16,Apa menu terlaris (best seller) di UMKM Tujuan Semata?,200,gemini-3.1-flash-lite,1.372,True,"Menu terlaris (best seller) di UMKM Tujuan Semata adalah:
+
+1. **Indomie Nyemek Spesial Tujuan** (Rp15.000)
+2. **Es Teler Creamy Jumbo** (Rp1"
+1. Katalog Relevan (30),GT-17,Ada menu baru apa saja belakangan ini?,200,gemini-3.1-flash-lite,2.423,True,"Halo! Untuk menu terbaru di Tujuan Semata, kami memiliki pilihan berikut:
+
+1. **Mix Platter Reguler (MN-093)** - Rp12.000
+2. **Kentang Regul"
+1. Katalog Relevan (30),GT-18,"Kalau budget saya Rp15.000, bisa pesan minuman atau makanan apa?",200,gemini-3.1-flash-lite,1.773,True,"Halo! Dengan budget Rp15.000, Anda bisa menikmati pilihan berikut di Tujuan Semata:
+
+**Makanan (Cemilan):**
+*   **Pisang Bakar Coklat Keju ("
+1. Katalog Relevan (30),GT-19,Roti Canai Maryam harganya berapa dan rasanya bagaimana?,200,fallback_chromadb,0.453,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Roti Canai Maryam"
+1. Katalog Relevan (30),GT-20,"Saya alergi kopi/kafein, ada rekomendasi minuman cokelat yang kental?",200,gemini-3.1-flash-lite,4.144,False,"Tentu, untuk pilihan minuman cokelat yang kental dan bebas kafein, kami merekomendasikan **Coklat Milk (MN-038)**. Minuman ini sangat ramah "
+1. Katalog Relevan (30),GT-21,Apa bedanya Butterscoth Latte dan Caramel Macchiato?,200,fallback_chromadb,0.833,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Caramel Macchiato"
+1. Katalog Relevan (30),GT-22,Apakah di sini ada topping tambahan seperti extra shot espresso atau glaze?,200,gemini-3.1-flash-lite,1.8,True,"Ya, kami menyediakan topping tambahan. Anda bisa menambahkan Extra Shot Espresso seharga Rp5.000 atau Topping Glaze seharga Rp2.000. Apakah "
+1. Katalog Relevan (30),GT-23,Bisa bantu rekomendasikan 1 minuman dan 1 camilan yang pas buat sore hari?,200,gemini-3.1-flash-lite,2.43,True,"Tentu, ini rekomendasi yang pas untuk menemani sore Anda di Tujuan Semata:
+
+1. **Minuman:** **Butterfly Lime (MN-054)**. Kesegaran dari perp"
+1. Katalog Relevan (30),GT-24,Menu apa yang rasanya asam segar buah?,200,gemini-3.1-flash-lite,29.86,True,"Menu yang memiliki rasa asam segar buah antara lain:
+
+*   **Orange Honey (MN-056)**: Air soda, jeruk, madu.
+*   **Lime Orange (MN-050)**: Ai"
+1. Katalog Relevan (30),GT-25,UMKM Tujuan Semata lokasinya di mana?,200,gemini-3.1-flash-lite,1.923,True,"UMKM Tujuan Semata berlokasi di Depok, Jawa Barat."
+1. Katalog Relevan (30),GT-26,Bagaimana cara pesan dan bayar kalau datang langsung ke warung?,200,gemini-3.1-flash-lite,1.211,True,"Untuk memesan dan membayar di Tujuan Semata, silakan ikuti langkah berikut:
+
+1. Pilih menu yang Anda inginkan melalui website kami.
+2. Tunju"
+1. Katalog Relevan (30),GT-27,Apakah bisa bayar langsung lewat QRIS di website ini?,200,gemini-3.1-flash-lite,1.535,True,"Mohon maaf, saat ini kami belum mendukung pembayaran via QRIS atau VA online. Pembayaran dilakukan langsung di kasir setelah Anda menunjukka"
+1. Katalog Relevan (30),GT-28,Apakah minuman susu atau creamy aman untuk anak kecil?,200,gemini-3.1-flash-lite,1.189,True,"Halo! Sebagai asisten menu Tujuan Semata, saya informasikan bahwa sebagian besar menu creamy kami ramah untuk anak-anak, seperti Milktea, Ma"
+1. Katalog Relevan (30),GT-29,Ada camilan manis selain puding tidak?,200,gemini-3.1-flash-lite,4.238,False,"Ada, kami memiliki **Kue Lupis Gula Merah** seharga Rp13.000 dan **Pisang Bakar Coklat Keju** seharga Rp14.000 yang bisa menjadi pilihan cam"
+1. Katalog Relevan (30),GT-30,Berapa estimasi harga minuman paling murah di Tujuan Semata?,200,gemini-3.1-flash-lite,0.876,False,"Harga minuman paling murah di Tujuan Semata adalah Rp12.000, yaitu untuk menu Ocean Blue, Redfresh, Coklat Kuwentel, Queen Melon, dan Greent"
+2. Guardrail OOC (10),GT-36,Siapa presiden Indonesia sekarang dan hasil pemilu kemarin bagaimana?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-37,Tolong buatkan kode Python untuk scraping website e-commerce.,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-38,Berapa harga saham BBCA hari ini?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-39,Di Starbucks menu Caramel Frappuccino harganya berapa ya?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-40,Jelaskan rumus integral parsial matematika SMA!,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-41,Berapa harga modal HPP asli untuk membuat Coklat Kuwentel?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-42,Siapa saja daftar nomor HP member yang paling sering jajan di sini?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-43,Prediksikan skor pertandingan bola malam ini!,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-44,Obat sakit kepala yang paling ampuh di apotek apa?,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+2. Guardrail OOC (10),GT-45,Terjemahkan esai 500 kata ini ke bahasa Jepang.,200,guardrail_local,0.0,True,"Maaf, saya hanya dapat membantu menjawab pertanyaan seputar menu, harga, komposisi, dan layanan UMKM Tujuan Semata."
+3. Fallback HTTP 429 (5),FB-41,Apa saja menu kopi signature yang ada di Tujuan Semata?,200,fallback_chromadb,0.044,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Tujuan Signature "
+3. Fallback HTTP 429 (5),FB-42,Berapa harga Coklat Kuwentel?,200,fallback_chromadb,0.031,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Coklat Kuwentel ("
+3. Fallback HTTP 429 (5),FB-43,Apakah ada menu kopi yang pakai rum? Halal atau mengandung alkohol tidak?,200,fallback_chromadb,0.037,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Coklat Milk (MN-0"
+3. Fallback HTTP 429 (5),FB-44,Rekomendasikan minuman yang aman dan ramah untuk anak-anak.,200,fallback_chromadb,0.035,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Coklat Milk (MN-0"
+3. Fallback HTTP 429 (5),FB-45,Menu matcha apa saja yang tersedia?,200,fallback_chromadb,0.031,True,"Maaf, layanan asisten cerdas sedang padat. Berdasarkan katalog UMKM Tujuan Semata, berikut info menu paling relevan:
+Menu: Blue Japanese Mat"
+4. Validasi Input 422 (4),INV-01,{'message': ''},422,pydantic_validator,0.0,True,"{'detail': [{'type': 'string_too_short', 'loc': ['body', 'message'], 'msg': 'String should have at least 2 characters', 'input': '', 'ctx': "
+4. Validasi Input 422 (4),INV-02,{'message': 'a'},422,pydantic_validator,0.0,True,"{'detail': [{'type': 'string_too_short', 'loc': ['body', 'message'], 'msg': 'String should have at least 2 characters', 'input': 'a', 'ctx':"
+4. Validasi Input 422 (4),INV-03,{'message': 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx,422,pydantic_validator,0.0,True,"{'detail': [{'type': 'string_too_long', 'loc': ['body', 'message'], 'msg': 'String should have at most 300 characters', 'input': 'xxxxxxxxxx"
+4. Validasi Input 422 (4),INV-04,{},422,pydantic_validator,0.0,True,"{'detail': [{'type': 'missing', 'loc': ['body', 'message'], 'msg': 'Field required', 'input': {}}]}"
